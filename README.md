@@ -18,7 +18,7 @@ The system uses random sampling combined with a greedy swap optimization algorit
 **Data Loading:**
 - Reads candidate pool from Excel file: `CiA_demographic_lottery_2026_105.xlsx`
 - Reads benchmark targets from Excel file: `Stratification_metrics.xlsx` (sheet: `computable_format`)
-- See examples for the structure of these in the repo.
+- See file input_formats.xlsx for the structure of these.
 - There is a lot of prior work to be done by humans to recruit a demographically diverse pool at each location.
 
 **Data Cleaning:**
